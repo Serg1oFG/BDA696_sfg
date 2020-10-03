@@ -2,6 +2,6 @@
   "files.watcherExclude": {
     "**/.venv": true
   },
-  "python.pythonPath": ".venv/bin/python",
+  "python.pythonPath": "c:\\Users\\Trini\\Documents\\SDSU Big Data Analytics\\Machine Learning\\BDA696_sfg\\work_env\\Scripts\\python.exe",
   "python.terminal.activateEnvironment": true
 }
